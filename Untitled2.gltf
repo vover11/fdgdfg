@@ -1,0 +1,505 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0",
+        "extensions": {
+            "KHR_xmp": {
+                "packet": 0
+            }
+        }
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 26268,
+            "type": "VEC3",
+            "max": [
+                0.9098095297813416,
+                0.09305664151906967,
+                0.0
+            ],
+            "min": [
+                0.009521484375,
+                -0.025644531473517419,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 26268,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 26268,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 13182,
+            "type": "SCALAR",
+            "max": [
+                26267.0
+            ],
+            "min": [
+                1.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5125,
+            "count": 6543,
+            "type": "SCALAR",
+            "max": [
+                26263.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5125,
+            "count": 6543,
+            "type": "SCALAR",
+            "max": [
+                25417.0
+            ],
+            "min": [
+                14.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3",
+            "max": [
+                0.09999999403953552,
+                0.0,
+                0.09999999403953552
+            ],
+            "min": [
+                -0.09999999403953552,
+                0.0,
+                -0.09999999403953552
+            ]
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5125,
+            "count": 6,
+            "type": "SCALAR",
+            "max": [
+                3.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 315216,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 315216,
+            "byteLength": 315216,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 630432,
+            "byteLength": 210144,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 840576,
+            "byteLength": 52728,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 893304,
+            "byteLength": 26172,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 919476,
+            "byteLength": 26172,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 945648,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 945696,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 945744,
+            "byteLength": 32,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 945776,
+            "byteLength": 24,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 945800,
+            "uri": "Untitled2_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.00003010775617440231,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6307567954063416,
+                    0.6307567954063416,
+                    0.6307567954063416,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.4000000059604645
+            },
+            "name": "Default Material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.022173810750246049,
+                    0.002124690217897296,
+                    0.03954628109931946,
+                    0.9200000166893005
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.4000000059604645
+            },
+            "alphaMode": "BLEND",
+            "name": "Default Material 17",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "TextMesh#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 4,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 5,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_PLANE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 6,
+                        "NORMAL": 7,
+                        "TEXCOORD_0": 8
+                    },
+                    "indices": 9,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "TextMesh#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 4,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 5,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "TextMesh#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 4,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 5,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "TextMesh#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 4,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 5,
+                    "material": 0
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                -1.5348674058914185,
+                2.910536527633667,
+                1.7978030443191529
+            ],
+            "rotation": [
+                -0.3366698622703552,
+                -0.43671491742134097,
+                -0.1805230975151062,
+                0.8144598603248596
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "translation": [
+                0.4958883225917816,
+                2.38418573772492e-9,
+                -0.4149579107761383
+            ],
+            "name": "Group"
+        },
+        {
+            "translation": [
+                0.034844279289245608,
+                0.02564452774822712,
+                -0.030858458951115609
+            ],
+            "mesh": 0,
+            "name": "Text 3"
+        },
+        {
+            "translation": [
+                0.4975346028804779,
+                0.0,
+                0.46789050102233889
+            ],
+            "scale": [
+                4.94291877746582,
+                0.9999998211860657,
+                5.638720989227295
+            ],
+            "mesh": 1,
+            "name": "Plane"
+        },
+        {
+            "translation": [
+                0.06251376867294312,
+                0.02564452774822712,
+                1.0330909490585328
+            ],
+            "mesh": 2,
+            "name": "Text"
+        },
+        {
+            "translation": [
+                0.04089611768722534,
+                0.02564452774822712,
+                0.9201294779777527
+            ],
+            "rotation": [
+                -3.996034629767404e-16,
+                0.7071067690849304,
+                4.63175720887899e-16,
+                0.7071067690849304
+            ],
+            "scale": [
+                0.9999998211860657,
+                1.0,
+                0.9999998211860657
+            ],
+            "mesh": 3,
+            "name": "Text 2"
+        },
+        {
+            "translation": [
+                0.9499672651290894,
+                0.02564452774822712,
+                0.9379364848136902
+            ],
+            "rotation": [
+                -3.996034629767404e-16,
+                0.7071067690849304,
+                4.63175720887899e-16,
+                0.7071067690849304
+            ],
+            "scale": [
+                0.9999998211860657,
+                1.0,
+                0.9999998211860657
+            ],
+            "mesh": 4,
+            "name": "Text 4"
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "scene": 0,
+    "extensions": {
+        "KHR_xmp": {
+            "@context": {
+                "dc": "http://purl.org/dc/elements/1.1/"
+            },
+            "packets": [
+                {
+                    "dc:date": "2021-04-27T02:33:09.213+03:00",
+                    "dc:format": "model/gltf+json",
+                    "dc:title": "Untitled2.dn",
+                    "xmp:CreatorTool": "Adobe Dimension"
+                }
+            ]
+        }
+    },
+    "extensionsUsed": [
+        "KHR_xmp"
+    ]
+}
